@@ -7,7 +7,7 @@
 **Thoughts** Working through the Responsive Design courses. Finished Basic HTML/HTML 5, Basic CSS, and Applied Visual Design.
 
 
-### Day 1: June 22
+### Day 2: June 23
 
 **Today's Progress**: Completed 4 more sections, up to the projects page.
 
