@@ -12,3 +12,9 @@
 **Today's Progress**: Completed 4 more sections, up to the projects page.
 
 **Thoughts** Lots of responsivity stuff today. As well as a good bit about accessibility.
+
+### Day 3: June 24
+
+**Today's Progress**: Wrote my Tribute Page
+
+**Thoughts** Mild HTML, mild CSS: https://codepen.io/dcarl4864/pen/dyvxNPV
