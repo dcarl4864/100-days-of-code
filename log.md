@@ -18,3 +18,15 @@
 **Today's Progress**: Wrote my Tribute Page
 
 **Thoughts** Mild HTML, mild CSS: https://codepen.io/dcarl4864/pen/dyvxNPV
+
+### Day 4: June 25
+
+**Today's Progress**: Worked on a client's redesign.
+
+**Thoughts** Not much coding, as it was mostly WordPress. Also started on a javascript course.
+
+### Day 5: June 26
+
+**Today's Progress**: Finished a couple javascript course modules.
+
+**Thoughts** Feels very if -> then based. Very easy to make typos, but overall pretty powerful. Crazy how much is built on this language.
